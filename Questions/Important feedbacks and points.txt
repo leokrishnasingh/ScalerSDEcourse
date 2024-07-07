@@ -1,0 +1,4 @@
+
+-> always find BF approach and its TC then optimize (this helps in observations)
+
+-> dry run is compulsory at edge cases before submitting the code 
