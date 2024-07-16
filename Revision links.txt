@@ -1,1 +1,3 @@
-https://hackmd.io/@scaler-topics-main/ByBI2tou6
+Scaler coaching content : https://docs.google.com/document/d/1fLNpdHGDo4n8V2eKt_NIaSH_XRA7DdVpPiDT_rCpcAc/edit#heading=h.cddxwvw571k
+
+arrays and bit manipulation : https://hackmd.io/@scaler-topics-main/ByBI2tou6
